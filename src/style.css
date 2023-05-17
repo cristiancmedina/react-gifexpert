@@ -1,0 +1,16 @@
+* {
+  background-color: white;
+  font-family: monospace;
+  color: black;
+}
+
+.card-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  margin: 10px;
+}
